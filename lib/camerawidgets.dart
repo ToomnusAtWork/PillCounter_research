@@ -200,3 +200,7 @@ class _DisplayPictureScreen extends State<DisplayPictureScreen> {
         ));
   }
 }
+
+// Set up the code and fork the old code project here
+// This might not work with current iOS Version.
+// TODO: Change current theme of the UI
